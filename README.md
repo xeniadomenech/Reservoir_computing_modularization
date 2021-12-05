@@ -1,6 +1,6 @@
 # Reservoir_computing_modularization
 
-The aim of the project is to build a modularized Reservoir Computing model capable of identifying different movement related states from a neural data set recorded from a non-human primate. This code is based on the program of Arnau Naval Ruiz.
+The aim of the project is to build a modularized Reservoir Computing model capable of identifying different movement related states from a neural data set recorded from a non-human primate. This code is based on the program of Arnau Naval Ruiz ([Arnau's codes](https://github.com/ArnauNaval/TFG_ReservoirComputing)).
 
 ## Files description
 
